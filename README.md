@@ -15,12 +15,11 @@ Inconsistent Dates	Order_Date had mixed formats (e.g., 2024-01-12, 2024/01/17, 2
 Data columns (total 15 columns):
     Column          Non-Null Count  Dtype  
 ---  ------          --------------  -----  
-...
  12  Total_Amount    8 non-null      float64
  13  Month           6 non-null      float64
  14  Age_Group       8 non-null      object
  # Tools used
  .Python3
- .Numpy
- .Pandas
+ ,Numpy
+ ,Pandas.
  
