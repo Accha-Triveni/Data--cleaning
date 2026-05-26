@@ -1,6 +1,6 @@
 # Data--cleaning
 Data Immersion &amp; Wrangling focuses on understanding and preparing the dataset for analysis through data exploration, quality assessment, cleaning, and transformation. It involves handling missing values, duplicates, inconsistent formatting, and outliers to create a clean, structured, and analysis-ready dataset using Python/Pandas.
-# Dataset are:
+# Datasets
 .Dataset Name (Original File): sales_data (1).csv
 .Dataset Name (Cleaned Version): cleaned_sales_data.csv
 # Issues found and fixed
@@ -13,7 +13,7 @@ Outliers / Invalid Data	Maximum age was recorded as 150, which is biologically i
 Inconsistent Dates	Order_Date had mixed formats (e.g., 2024-01-12, 2024/01/17, 20-01-2024).	pd.to_datetime(df['Order_Date'], errors='coerce')	Standardized everything into a uniform timestamp format (unresolvable dates turned to NaN).
 # newly added columns
 Data columns (total 15 columns):
- #   Column          Non-Null Count  Dtype  
+    Column          Non-Null Count  Dtype  
 ---  ------          --------------  -----  
 ...
  12  Total_Amount    8 non-null      float64
