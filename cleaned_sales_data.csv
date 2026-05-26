@@ -1,0 +1,9 @@
+Order_ID,Customer_Name,Age,Gender,Country,Product,Category,Quantity,Price,Order_Date,Payment_Method,Rating,Total_Amount,Month,Age_Group
+1001,John Smith,25.0,Male,USA,Laptop,Electronics,1,800.0,2024-01-12,Card,4.0,800.0,1.0,Young Adult
+1002,Emma Watson,29.0,Female,UK,Phone,Electronics,2,500.0,2024-01-15,UPI,5.0,1000.0,1.0,Young Adult
+1003,Michael Lee,46.125,Male,Canada,Tablet,Electronics,1,300.0,,Cash,3.0,300.0,,Adult
+1004,Sophia Brown,45.0,Female,USA,Headphones,Accessories,3,400.0,2024-01-20,Card,4.0,1200.0,1.0,Adult
+1005,David Miller,33.0,Male,India,Laptop,Electronics,1,850.0,,UPI,5.0,850.0,,Adult
+1006,Olivia Davis,29.0,Female,India,Mouse,Accessories,2,25.0,2024-01-25,Card,4.0,50.0,1.0,Young Adult
+1008,Ava Taylor,27.0,Female,UK,Monitor,Electronics,1,220.0,2024-02-01,Card,4.0,220.0,2.0,Young Adult
+1009,Noah Thomas,31.0,Male,Canada,Laptop,Electronics,1,900.0,2024-02-03,UPI,5.0,900.0,2.0,Adult
